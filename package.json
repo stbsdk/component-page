@@ -6,14 +6,15 @@
         "name": "Stanislav Kalashnik",
         "email": "darkpark.main@gmail.com"
     },
-    "main": "spa-component-page",
+    "main": "../spa-component-page",
     "repository": "stbsdk/component-page",
     "scripts": {
         "lint": "eslint *.js",
         "jsdoc": "jsdoc --destination doc *.js readme.md"
     },
     "dependencies": {
-        "spa-component-page": "1.*.*"
+        "spa-component-page": "1.*.*",
+        "stb-component": "1.*.*"
     },
     "keywords": [
         "stb",

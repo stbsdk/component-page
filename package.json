@@ -13,8 +13,8 @@
         "jsdoc": "jsdoc --destination doc *.js readme.md"
     },
     "dependencies": {
-        "spa-component-page": "1.*.*",
-        "stb-component": "1.*.*"
+        "spa-component-page": "spasdk/component-page",
+        "stb-component": "stbsdk/component"
     },
     "keywords": [
         "stb",

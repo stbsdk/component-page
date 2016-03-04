@@ -2,10 +2,10 @@
 // @license GNU GENERAL PUBLIC LICENSE Version 3
 
 // parent
-@import "../../spa-component-page/sass/main.scss";
+@import "../node_modules/spa-component-page/sass/main.scss";
 
 /* stb-component-page */
-
 .component.page {
-
+    width:  $width;
+    height: $height;
 }

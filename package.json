@@ -17,6 +17,9 @@
         "stb-app": "stbsdk/app",
         "stb-component": "stbsdk/component"
     },
+    "devDependencies": {
+        "stb-eslint-config": "stbsdk/eslint-config"
+    },
     "keywords": [
         "stb",
         "stbsdk",

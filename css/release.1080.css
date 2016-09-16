@@ -1,5 +1,6 @@
-/* spa-component-page: release */
-.component.page {
+.stb-component-page {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
     width: 1920px;
     height: 1080px;
     position: absolute;
@@ -7,5 +8,7 @@
     top: 0;
     visibility: hidden;
     overflow: hidden; }
-    .component.page.active {
+    .stb-component-page.hidden {
+        display: none; }
+    .stb-component-page.active {
         visibility: inherit; }

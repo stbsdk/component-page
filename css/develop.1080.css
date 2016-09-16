@@ -1,11 +1,18 @@
-/* spa-component-page: release */
-.component.page {
+.stb-component-page {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
     width: 1920px;
     height: 1080px;
     position: absolute;
     left: 0;
     top: 0;
     visibility: hidden;
-    overflow: hidden; }
-    .component.page.active {
+    overflow: hidden;
+    outline: 1px dashed #005000;
+    outline-offset: -1px; }
+    .stb-component-page.hidden {
+        display: none; }
+    .stb-component-page.active {
         visibility: inherit; }
+    .stb-component-page.focus {
+        outline: 1px dashed red; }

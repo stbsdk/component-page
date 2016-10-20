@@ -1,9 +1,10 @@
 Page component
 ==============
 
-[![Build Status](https://img.shields.io/travis/stbsdk/component-page.svg?style=flat-square)](https://travis-ci.org/stbsdk/component-page)
-[![NPM version](https://img.shields.io/npm/v/stb-component-page.svg?style=flat-square)](https://www.npmjs.com/package/stb-component-page)
-[![Dependencies Status](https://img.shields.io/david/stbsdk/component-page.svg?style=flat-square)](https://david-dm.org/stbsdk/component-page)
+[![build status](https://img.shields.io/travis/stbsdk/component-page.svg?style=flat-square)](https://travis-ci.org/stbsdk/component-page)
+[![npm version](https://img.shields.io/npm/v/stb-component-page.svg?style=flat-square)](https://www.npmjs.com/package/stb-component-page)
+[![dependencies status](https://img.shields.io/david/stbsdk/component-page.svg?style=flat-square)](https://david-dm.org/stbsdk/component-page)
+[![devDependencies status](https://img.shields.io/david/dev/stbsdk/component-page.svg?style=flat-square)](https://david-dm.org/stbsdk/component-page?type=dev)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/stbsdk)
 
 

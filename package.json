@@ -17,7 +17,7 @@
         "jsdoc": "jsdoc --destination doc *.js readme.md"
     },
     "dependencies": {
-        "spa-component-page": "spasdk/component-page"
+        "spa-component-page": "1.*.*"
     },
     "devDependencies": {
         "eslint": "3.*.*",
